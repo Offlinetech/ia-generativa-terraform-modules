@@ -1,1 +1,0 @@
-# ia-generativa-terraform-modules
